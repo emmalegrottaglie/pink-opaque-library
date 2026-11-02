@@ -30,6 +30,12 @@ Where it comes from is hard to tell. Accounts can claim any country, and influen
 
 - **DFRLab (2024):** the Russian operation Doppelganger ran a fake LGBTQ+ outlet with topics including "Trans youth" and "Woke Wars", alongside narratives against Ukraine aid (checked). Anti-trans topics are used among other culture-war wedges, not as the main goal.
 - **EUvsDisinfo (2025):** pro-Kremlin messaging in Moldova cast "an LGBTIQ+ agenda" and the undermining of "traditional values" as Western impositions (noted in the Bot Traffic Monitor's research; recheck on the original page before citing).
+- **Social Design Agency (2023 plan, in Pamment and Tsurtsumia, Lund University, 2025):** a leaked planning document for the Russian campaign before the 2024 European Parliament elections lists "the rights of transgender people and sexual minorities" among abstract values that "liberal globalists" impose, set against family and "true values" (checked; the report notes the lines were later revised).
+- **US Department of Justice (September 2024):** the Doppelganger operation leased "My Pride Press", a fake LGBTQ outlet covering trans youth, athletes and "woke wars"; the affidavit quotes Recorded Future that Doppelganger's US outlets aimed to fuel anti-LGBTQ+ sentiment before the 2024 election (checked).
+- **VIGINUM (May 2025):** the Storm-1516 operation smeared President Zelensky as homosexual and spread fakes about a "pro-transgender" Ukrainian site and a "pro-transgender initiative" (checked).
+- **EEAS (2023 and 2026):** "protect the children", "unfair advantage in sport" and "the West in decline" recur in foreign manipulation targeting LGBTIQ+ people; in Moldova's 2025 election President Sandu was portrayed as violating traditional values through LGBTQ+ narratives (checked).
+- **The other way round (US Senate, 2019):** in 2016 the Internet Research Agency also posed as LGBTQ+ people ("LGBT United"), next to pages for gun owners and Christians, to deepen divisions (checked).
+- Copies of the openly licensed reports are in the Bot Traffic Monitor's [library](https://github.com/emmalegrottaglie/Russian-Bot-Monitor/tree/main/library).
 - **What is not shown:** no source we checked measures what share of anti-trans rhetoric online is foreign. Claims that it is "mostly bots" or "mostly Russian" are not supported by anything here.
 
 ### Individual claims start with identifiable people
