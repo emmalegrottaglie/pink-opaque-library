@@ -4,7 +4,7 @@ description: >-
   come from, who spreads them, and how often they appear online. Every claim
   traces to a source read on the original page.
 url: "https://emmalegrottaglie.github.io"
-baseurl: "/trans-rhetoric-library"
+baseurl: "/pink-opaque-library"
 
 markdown: kramdown
 kramdown:

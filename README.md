@@ -43,4 +43,4 @@ The library is also a website, built by GitHub Pages with Jekyll from these same
 
 Each Markdown page starts with a short front matter block (`title`, `eyebrow`, `description`). Link between pages with relative links to the `.md` files, as now; GitHub Pages turns them into links between pages.
 
-To preview locally, install Jekyll once (`gem install jekyll jekyll-relative-links kramdown-parser-gfm`), then run `jekyll serve` in this folder and open http://127.0.0.1:4000/trans-rhetoric-library/.
+To preview locally, install Jekyll once (`gem install jekyll jekyll-relative-links kramdown-parser-gfm`), then run `jekyll serve` in this folder and open http://127.0.0.1:4000/pink-opaque-library/.
