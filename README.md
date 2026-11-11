@@ -1,4 +1,4 @@
-# Trans Rhetoric Library
+# The Pink Opaque Library
 
 A research library on anti-trans rhetoric: the talking points, where they come from, who spreads them and why, and how often they appear online. Every claim traces to a source that was read on the original page, and every measurement says how it was taken.
 
